@@ -1,0 +1,58 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.nav-form {
+    -fx-background-color:#162440;
+}
+.left-form{
+    -fx-background-color:#fff;
+}
+.nav-btn{
+    -fx-background-color:#162440;
+    -fx-text-fill:#fff;
+    -fx-cursor:hand;
+    -fx-font-size:14px;
+    -fx-font-family:"Lucida Sans";
+    -fx-font-weight:bold;
+}
+.nav-btn:hover{
+    -fx-background-color:#6b8ccd;
+    -fx-text-fill:#fff;
+}
+.refrescarTabla-btn{
+    -fx-background-color: #DB5858;
+    -fx-text-fill:#fff;
+    -fx-cursor:hand;
+    -fx-font-size:14px;
+    -fx-font-family:"Lucida Sans";
+    -fx-font-weight:bold;
+}
+.refrescarTabla-btn:hover{
+    -fx-background-color: #b21f1f;
+    -fx-text-fill:#fff;
+}
+.title-lbl{
+    -fx-text-fill:#162440;
+    -fx-font-family:"Lucida Sans";
+    -fx-font-size:28px;
+    -fx-font-weight:bold;
+}
+.subtitle-lbl{
+    -fx-text-fill:#162440;
+    -fx-font-family:"Lucida Sans";
+    -fx-font-size:16px;
+    -fx-font-weight:bold;
+}
+.logout-btn{
+    -fx-background-color:#DB5858;
+    -fx-text-fill:#fff;
+    -fx-cursor:hand;
+    -fx-font-size:14px;
+    -fx-font-family:"Lucida Sans";
+    -fx-font-weight:bold;
+}
+.logout-btn:hover{
+    -fx-background-color:#b21f1f;
+    -fx-text-fill:#fff;
+}

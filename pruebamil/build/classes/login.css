@@ -1,0 +1,53 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+
+.nav-form {
+    -fx-background-color:#162440;
+}
+.left-form{
+    -fx-background-color:#fff;
+}
+.login-btn{
+    -fx-background-color:#DB5858;
+    -fx-text-fill:#fff;
+    -fx-cursor:hand;
+    -fx-font-size:14px;
+    -fx-font-family:"Lucida Sans";
+    -fx-font-weight:bold;
+}
+.login-btn:hover{
+    -fx-background-color:#b21f1f;
+    -fx-text-fill:#fff;
+}
+.title-lbl{
+    -fx-text-fill:#162440;
+    -fx-font-family:"Lucida Sans";
+    -fx-font-size:28px;
+    -fx-font-weight:bold;
+}
+.subtitle-lbl{
+    -fx-text-fill:#162440;
+    -fx-font-family:"Lucida Sans";
+    -fx-font-size:16px;
+    -fx-font-weight:bold;
+}
+.titleWhite-lbl{
+    -fx-text-fill:#fff;
+    -fx-font-family:"Lucida Sans";
+    -fx-font-size:28px;
+    -fx-font-weight:bold;
+}
+.close-btn{
+    -fx-background-color:#fff;
+    -fx-text-fill:black;
+    -fx-cursor:hand;
+    -fx-font-size:14px;
+    -fx-font-family:"Lucida Sans";
+    -fx-font-weight:bold;
+}
+.close-btn:hover{
+    -fx-background-color:#DB5858;
+    -fx-text-fill:#fff;
+}
